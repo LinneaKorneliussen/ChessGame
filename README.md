@@ -29,5 +29,5 @@ Syftet med projektet är att öva objektorienterad programmering, design av spel
 1. Klona repot:
 
 ```bash
-git clone <ditt-repo-url>
+git clone https://github.com/LinneaKorneliussen/ChessGame.git
 cd ChessGame
